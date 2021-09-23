@@ -1,0 +1,24 @@
+.hero {
+    background-image:url(/src/foto2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+
+.hero-body {
+    text-align: center;
+    justify-content: center;
+}
+
+.belowhero {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+}
+
+.belowhero-body {
+    text-align: center;
+    justify-content: center;
+}
+
+

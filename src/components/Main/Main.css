@@ -1,0 +1,16 @@
+
+.title {
+    font-family: 'Playfair Display', serif;
+    color: #d1c07c;
+    font-size: 50px;
+}
+
+.subtitle {
+    font-style: Lato;
+    font-size: 20px;
+}
+
+.container {
+    padding: 40px;
+}
+

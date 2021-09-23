@@ -1,0 +1,16 @@
+/* .select {
+    width: 15%;
+    color: brown;
+    font-size: 5px;
+    border-color: gold;
+} */
+
+.navbar.is-info {
+    background-color: white;
+
+}
+
+.navbar-item2 {
+    background-color: #DBDAD5;
+    padding: 20px;
+}
