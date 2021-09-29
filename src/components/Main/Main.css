@@ -14,3 +14,13 @@
     padding: 40px;
 }
 
+.noresults{
+    color:#d1c07c;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.loading {
+    padding-left: 50%;
+}

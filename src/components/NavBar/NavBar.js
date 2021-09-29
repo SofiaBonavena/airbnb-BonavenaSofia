@@ -33,7 +33,7 @@ const NavBar = () => {
                     </div>
                     <div className="navbar-end">
                         <a class="navbar-item" href="#">
-                            Home
+                            Hotel
                         </a>
                         <a class="navbar-item">
                             Promociones

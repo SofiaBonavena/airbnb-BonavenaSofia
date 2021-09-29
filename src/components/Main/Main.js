@@ -17,12 +17,11 @@ const Main = ({ isLoading, hoteles }) => {
                                 <Card hotel={hotel} key={hotel.name} />
                             )}
                         </div>
-                    )
-                        :
-                        (<p> NO HAY RESULTADOS </p>)
-                ) : (
-                    <img src = {Loader}/>
-                )}
+                        
+                    ):(<p className="noresults"> Ops! No hay resultados </p>)
+                ) : (<img className="loading" src = {Loader}/>)
+                
+                 }
             </div>
         </>
     );
